@@ -11,8 +11,8 @@ body {
     line-height: var(--line-height-base);
 }
 
-a {
-    color: #161616;
+a:link{
+    color: var(--text-color);
     text-decoration: none;
 }
 
